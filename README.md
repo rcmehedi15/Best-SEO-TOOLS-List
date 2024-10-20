@@ -75,5 +75,4 @@
 - GatherUp
 - Grade.us
 
-Which tools are your go-to for SEO?
-Activate to view larger image,
+
